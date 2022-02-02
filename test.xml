@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template name="test">
+    <measuments mname="temperature">
+        <datatype>1</datatype>
+    </measuments>
+    <measuments mname="status">
+        <datatype>5</datatype>
+    </measuments>
+    <measuments mname="lat">
+        <datatype>4</datatype>
+    </measuments>
+</template>
